@@ -1,1 +1,102 @@
-{"titleNameMap":{"educationList":"教育背景","workExpList":"工作经历","projectList":"项目经历","skillList":"个人技能","awardList":"更多信息","workList":"个人作品","aboutme":"自我介绍"},"avatar":{"hidden":true},"profile":{"name":"王骁","email":"18511506146@163.com","mobile":"18511506146","github":"","zhihu":"","workExpYear":"3年运营，5年项目经理","workPlace":"北京市","positionTitle":"运营经理/项目经理"},"educationList":[{"edu_time":["2008.09.01","2012.06.30"],"school":"大连理工大学","major":"应用物理学","academic_degree":"本科","dataIndex":0},{"edu_time":["2012.09.01","2015.06.30"],"school":"大连理工大学","major":"管理科学与工程（硕士）"}],"awardList":[{"award_info":"英语 CET6","award_time":"2012","dataIndex":0}],"workExpList":[{"company_name":"中交水运规划设计院","department_name":"科技开发中心","work_time":["2019.06",""],"work_desc":"1. 担任XX港泊位BIM施工管理平台项目负责人，基于BIM模型构建施工管理流程，设计并开发三级施工进度管理模块。\n2. 担任海港总图计算系统项目经理，基于行业规范，设计Web计算系统，设计并开发了核心计算模块，同时负责项目云平台采购和运维。\n3. 负责国投曹妃甸某港口智能管控平台数据业务对接，数据库维护。\n4、负责宁波港数字化项目BIM模型施工进度管理模块。","dataIndex":0},{"work_time":["2015.07","2016.09"],"company_name":"北京雪球信息科技有限公司","department_name":"运营部","work_desc":"1. 与行业KOL建立联系，负责热点专题制作，负责在线访谈。\n2、与客户/交易所等相关机构建立并维护良好的关系，了解业务需求和反馈，配合推动新需求的落地验证。"},{"work_time":["2016.09","2018.02"],"company_name":"上海阿牛信息科技有限公司","department_name":"内容运营部","work_desc":"1.负责热点专题制作，负责每日股票财经分析文章撰写；\n2.负责内容策划、撰写、发布和用户互动。用过10篇10W+文章输出。"}],"skillList":[{"skill_name":"信息获取和追溯能力","skill_level":90,"skill_desc":"获取海内外第一手信息和追溯信息源头"}],"projectList":[{"project_time":"2020.04 - 2021.11","project_name":"XX泊位BIM施工管理平台","project_role":"项目负责人","project_desc":"面向施工企业的基于BIM的数字化决策和管理平台。提供实时3D模型数据同步和管理协同功能，让施工过程数字化，并提升管理效率。","project_content":"1. 项目从0到1的框架设计和开发 2. 管理流程精雕细琢的打磨 3. 开发三级进度管理模块。目前平台已经交付，施工项目已完工。","dataIndex":0},{"project_time":"2021.11 - 2024.03","project_name":"海港总图数字化计算系统","project_role":"项目经理","project_desc":"面向设计人员的数字化计算系统。提供行业规范的全部覆盖，实时可见的计算过程，根据规范设计好用优雅的页面。","project_content":"1. 项目从0到1的框架设计和开发 2. 全部云平台部署和运维过程 3. 与设计人员的思维碰撞，改变行业旧有的计算流程，设计数字化的计算系统。目前平台正在使用，海港1.0系统已交付，迭代2.0系统。其他专业如工艺等对该套计算系统很有兴趣。"},{"project_time":"2022.10 - 2023.05","project_name":"宁波某港口数字化系统大屏项目","project_role":"开发","project_desc":"面向港口运维人员的数智化系统。面向公司领导的大屏展示系统。","project_content":"1. 负责施工过程和运维过程的模型页面开发 2. 负责设计模型的3D展示效果和页面效果"}],"workList":[{"work_name":"AI进化日志","work_desc":"个人微信公众号，记录人工智能热点新闻，科普人工智能相关知识点。","visit_link":"https://mp.weixin.qq.com/s/63VrPWH5oRE3DwVTclT61Q"}],"aboutme":{"aboutme_desc":"能力项：沟通协调能力、执行力。3年社区运营/用户运营，5年央企项目管理/项目开发。具备优秀的沟通和协作能力，能够与不同背景的人有效合作。具备较强的解决问题和决策能力，能够独立应对复杂情况。负责多项央企施工运营项目，其中两个项目获得行业金奖。\n    "},"theme":{"color":"#2f5785","tagColor":"#8bc34a"}}
+{
+  "titleNameMap": {
+    "educationList": "教育背景",
+    "workExpList": "工作经历",
+    "projectList": "项目经历",
+    "skillList": "个人技能",
+    "awardList": "更多信息",
+    "workList": "个人作品",
+    "aboutme": "自我介绍"
+  },
+  "avatar": { "hidden": true },
+  "profile": {
+    "name": "王骁",
+    "email": "18511506146@163.com",
+    "mobile": "18511506146",
+    "github": "",
+    "zhihu": "",
+    "workExpYear": "3年运营，5年项目经理",
+    "workPlace": "北京市",
+    "positionTitle": "运营经理/项目经理"
+  },
+  "educationList": [
+    {
+      "edu_time": ["2008.09.01", "2012.06.30"],
+      "school": "大连理工大学",
+      "major": "应用物理学",
+      "academic_degree": "本科",
+      "dataIndex": 0
+    },
+    {
+      "edu_time": ["2012.09.01", "2015.06.30"],
+      "school": "大连理工大学",
+      "major": "管理科学与工程（硕士）"
+    }
+  ],
+  "awardList": [
+    { "award_info": "英语 CET6", "award_time": "2012", "dataIndex": 0 }
+  ],
+  "workExpList": [
+    {
+      "company_name": "中交水运规划设计院",
+      "department_name": "科技开发中心",
+      "work_time": ["2019.06", ""],
+      "work_desc": "1. 担任XX港泊位BIM施工管理平台项目负责人，基于BIM模型构建施工管理流程，设计并开发三级施工进度管理模块。\n2. 担任海港总图计算系统项目经理，基于行业规范，设计Web计算系统，设计并开发了核心计算模块，同时负责项目云平台采购和运维。\n3. 负责国投曹妃甸某港口智能管控平台数据业务对接，数据库维护。\n4. 负责宁波港数字化项目BIM模型施工进度管理模块。",
+      "dataIndex": 0
+    },
+    {
+      "work_time": ["2015.07", "2016.09"],
+      "company_name": "北京雪球信息科技有限公司",
+      "department_name": "运营部",
+      "work_desc": "1. 与行业KOL建立联系，负责热点专题制作，负责在线访谈。\n2. 与客户/交易所等相关机构建立并维护良好的关系，了解业务需求和反馈，配合推动新需求的落地验证。"
+    },
+    {
+      "work_time": ["2016.09", "2018.02"],
+      "company_name": "上海阿牛信息科技有限公司",
+      "department_name": "内容运营部",
+      "work_desc": "1.负责热点专题制作，负责每日股票财经分析文章撰写；\n2.负责内容策划、撰写、发布和用户互动。用过10篇10W+文章输出。"
+    }
+  ],
+  "skillList": [
+    {
+      "skill_name": "信息获取和追溯能力",
+      "skill_level": 90,
+      "skill_desc": "获取海内外第一手信息和追溯信息源头"
+    }
+  ],
+  "projectList": [
+    {
+      "project_time": "2020.04 - 2021.11",
+      "project_name": "XX泊位BIM施工管理平台",
+      "project_role": "项目负责人",
+      "project_desc": "面向施工企业的基于BIM的数字化决策和管理平台。提供实时3D模型数据同步和管理协同功能，让施工过程数字化，并提升管理效率。",
+      "project_content": "1. 项目从0到1的框架设计和开发 2. 管理流程精雕细琢的打磨 3. 开发三级进度管理模块。目前平台已经交付，施工项目已完工。",
+      "dataIndex": 0
+    },
+    {
+      "project_time": "2021.11 - 2024.03",
+      "project_name": "海港总图数字化计算系统",
+      "project_role": "项目经理",
+      "project_desc": "面向设计人员的数字化计算系统。提供行业规范的全部覆盖，实时可见的计算过程，根据规范设计好用优雅的页面。",
+      "project_content": "1. 项目从0到1的框架设计和开发 2. 全部云平台部署和运维过程 3. 与设计人员的思维碰撞，改变行业旧有的计算流程，设计数字化的计算系统。目前平台正在使用，海港1.0系统已交付，迭代2.0系统。其他专业如工艺等对该套计算系统很有兴趣。"
+    },
+    {
+      "project_time": "2022.10 - 2023.05",
+      "project_name": "宁波某港口数字化系统大屏项目",
+      "project_role": "开发",
+      "project_desc": "面向港口运维人员的数智化系统。面向公司领导的大屏展示系统。",
+      "project_content": "1. 负责施工过程和运维过程的模型页面开发 2. 负责设计模型的3D展示效果和页面效果"
+    }
+  ],
+  "workList": [
+    {
+      "work_name": "AI进化日志",
+      "work_desc": "个人微信公众号，记录人工智能热点新闻，科普人工智能相关知识点。",
+      "visit_link": "https://mp.weixin.qq.com/s/63VrPWH5oRE3DwVTclT61Q"
+    }
+  ],
+  "aboutme": {
+    "aboutme_desc": "能力项：沟通协调能力、执行力。3年社区运营/用户运营，5年央企项目管理/项目开发。具备优秀的沟通和协作能力，能够与不同背景的人有效合作。具备较强的解决问题和决策能力，能够独立应对复杂情况。负责多项央企施工运营项目，其中两个项目获得行业金奖。\n    "
+  },
+  "theme": { "color": "#2f5785", "tagColor": "#8bc34a" }
+}

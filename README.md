@@ -8,7 +8,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 <!-- Add more badges from shields.io as needed -->
 
-> [Deep in vibe-coding mode – building AI-powered developer tools at ludicrous speed.]
+> Deep in vibe-coding mode – building AI-powered developer tools at ludicrous speed.
 
 ## Current Projects
 - 🔭 **[Project Name](https://github.com/yourusername/project)** - A brief, punchy description of what this project does.
